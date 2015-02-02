@@ -1,2 +1,2 @@
-# codeSamples
-codeSamples
+# JS codeSamples
+JS codeSamples
